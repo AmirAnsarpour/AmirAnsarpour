@@ -6,5 +6,5 @@
 <h1></h1>
 
 How to reach me:
-Discord: `AmirSf#4464`
-Telegram : [AmirAnsarpour](http://t.me/AmirAnsarpour)
+- 🤖 Discord: `AmirSf#4464`
+- 🚀 Telegram : [AmirAnsarpour](http://t.me/AmirAnsarpour)
