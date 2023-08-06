@@ -12,8 +12,8 @@
  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
  #### Frameworks and Libraries
  <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
- <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
- <a href="#"><img alt="Next" src="https://img.shields.io/badge/React-20232a.svg?logo=next&logoColor=%2361DAFB"></a>
+ <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=white"></a>
+ <a href="#"><img alt="Next" src="https://img.shields.io/static/v1?style=for-the-badge&message=Next.js&logo=Next.js&logoColor=white)"></a>
  #### Databases and Cloud-hosting
  <a href="#"><img alt="SQLite" src="https://img.shields.io/badge/MySQL-00f.svg?logo=sqlite&logoColor=white"></a>
 
