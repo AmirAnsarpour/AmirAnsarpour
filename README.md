@@ -15,7 +15,7 @@
 
 ## Stats
 <div align=center>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AmirAnsarpour&show_icons=true&locale=en&layout=compact&theme=radical" alt="AmirAnsarpour" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AmirAnsarpour&show_icons=true&locale=en&layout=compact&theme=dark" alt="AmirAnsarpour" />
  <br>
-<img src="https://github-readme-stats.vercel.app/api?username=AmirAnsarpour&show_icons=true&locale=en&layout=compact&theme=radical" alt="AmirAnsarpour" />
+<img src="https://github-readme-stats.vercel.app/api?username=AmirAnsarpour&show_icons=true&locale=en&layout=compact&theme=dark" alt="AmirAnsarpour" />
 </div>
