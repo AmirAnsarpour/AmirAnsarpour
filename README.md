@@ -17,7 +17,4 @@
 <div align=center>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=AmirAnsarpour&show_icons=true&locale=en&layout=compact" alt="AmirAnsarpour" /></p>
 <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img alt="AmirAnsarpour's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=AmirAnsarpour&show_icons=true&count_private=true&theme=react&border=61dafb&hide_border=true" height="172px"/></a>
-<a href="https://git.io/streak-stats" title="Go to Source">
-  <img alt="AmirAnsarpour's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AmirAnsarpour&theme=react&border=61dafb" height="192px"/>
-</a>
 </div>
