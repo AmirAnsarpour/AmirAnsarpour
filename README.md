@@ -26,4 +26,6 @@
  <a href="https://wakatime.com/@AmirAnsarpour" target="_blank">
    <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=AmirAnsarpour&border_radius=5px&border_color=fff&icon_color=58a6ff&show_icons=true&langs_count=10&theme=dark">
  <a/>
- <img src="https://github-readme-stats.vercel.app/api?username=AmirAnsarpour&show_icons=true&locale=en&layout=compact&theme=dark" alt="AmirAnsarpour" />
+ <a href="https://wakatime.com/@AmirAnsarpour" target="_blank">
+   <img src="https://github-readme-stats.vercel.app/api?username=AmirAnsarpour&show_icons=true&locale=en&layout=compact&theme=dark" alt="AmirAnsarpour" />
+ <a/>
