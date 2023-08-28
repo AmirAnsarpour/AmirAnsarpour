@@ -4,18 +4,28 @@
 - From Iran, Tehran.
 
 #### languages
- <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
- <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
- <a href="#"><img alt="SASS" src="https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white"></a>
- <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
- <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
- #### Frameworks and Libraries
- <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
- <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=white"></a>
-
-## Stats
-<div align=center>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AmirAnsarpour&show_icons=true&locale=en&layout=compact&theme=dark" alt="AmirAnsarpour" />
- <br>
-<img src="https://github-readme-stats.vercel.app/api?username=AmirAnsarpour&show_icons=true&locale=en&layout=compact&theme=dark" alt="AmirAnsarpour" />
+<div>
+ <a href=""><img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5 icon"/></a>
+ <a href=""><img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3 icon" /></a>
+ <a href=""><img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript icon"/></a>
+ <a href=""><img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript icon"/></a>
+ <a href=""><img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python icon" /></a>
+</div>
+ 
+#### Frameworks and Libraries
+<div>
+ <a href=""><img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass icon"/></a>
+ <a href=""><img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap icon"/></a>
+ <a href=""><img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="Jquery icon"/></a>
+ <a href=""><img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJs icon"/></a>
+ <a href=""><img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="NextJs icon"/></a>
+</div>
+ 
+## Stats 
+<div>
+ <img src="https://wakatime.com/badge/user/d5b3cb34-df05-498b-b649-6607e68be4df.svg" alt="Total time coded since Aug 27 2023" />
+ <a href="https://wakatime.com/@AmirAnsarpour" target="_blank">
+   <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=AmirAnsarpour&border_radius=5px&border_color=fff&icon_color=58a6ff&show_icons=true&langs_count=10&theme=dark">
+ <a/>
+ <img src="https://github-readme-stats.vercel.app/api?username=AmirAnsarpour&show_icons=true&locale=en&layout=compact&theme=dark" alt="AmirAnsarpour" />
 </div>
