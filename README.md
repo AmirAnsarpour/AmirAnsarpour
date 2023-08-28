@@ -22,10 +22,8 @@
 </div>
  
 ## Stats 
-<div>
  <img src="https://wakatime.com/badge/user/d5b3cb34-df05-498b-b649-6607e68be4df.svg" alt="Total time coded since Aug 27 2023" />
  <a href="https://wakatime.com/@AmirAnsarpour" target="_blank">
    <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=AmirAnsarpour&border_radius=5px&border_color=fff&icon_color=58a6ff&show_icons=true&langs_count=10&theme=dark">
  <a/>
  <img src="https://github-readme-stats.vercel.app/api?username=AmirAnsarpour&show_icons=true&locale=en&layout=compact&theme=dark" alt="AmirAnsarpour" />
-</div>
