@@ -5,16 +5,14 @@
 
 #### languages
 <div>
- <a href="https://github.com/AmirAnsarpour"><img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5 icon"/></a>
- <a href="https://github.com/AmirAnsarpour"><img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3 icon" /></a>
  <a href="https://github.com/AmirAnsarpour"><img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript icon"/></a>
- <a href="https://github.com/AmirAnsarpour"><img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript icon"/></a>
+<!--  <a href="https://github.com/AmirAnsarpour"><img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript icon"/></a> -->
  <a href="https://github.com/AmirAnsarpour"><img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python icon" /></a>
 </div>
  
 #### Frameworks and Libraries
 <div>
- <a href="https://github.com/AmirAnsarpour"><img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass icon"/></a>
+ <a href="https://github.com/AmirAnsarpour"><img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/tailwind-original.svg" alt="Sass icon"/></a>
  <a href="https://github.com/AmirAnsarpour"><img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap icon"/></a>
  <a href="https://github.com/AmirAnsarpour"><img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="Jquery icon"/></a>
  <a href="https://github.com/AmirAnsarpour"><img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJs icon"/></a>
