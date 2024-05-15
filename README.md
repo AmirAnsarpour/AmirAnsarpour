@@ -13,7 +13,7 @@
 #### Frameworks and Libraries
 <div>
  <a href="https://github.com/AmirAnsarpour"><img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwindcss icon"/></a>
- <a href="https://github.com/AmirAnsarpour"><img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap icon"/></a>
+<!--  <a href="https://github.com/AmirAnsarpour"><img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap icon"/></a> -->
  <a href="https://github.com/AmirAnsarpour"><img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express icon"/></a>
  <a href="https://github.com/AmirAnsarpour"><img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJs icon"/></a>
 </div>
