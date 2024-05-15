@@ -23,12 +23,5 @@
  
 ## Stats 
 <div align="center">
-
- 
  <a href="https://github.com/AmirAnsarpour"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=AmirAnsarpour&border_radius=5px&border_color=fff&icon_color=58a6ff&show_icons=true&langs_count=10&theme=github_dark"></a>
- 
- <img src="https://wakatime.com/badge/user/d5b3cb34-df05-498b-b649-6607e68be4df.svg" alt="Total time coded since Aug 27 2023" />
- 
-  <a href="https://github.com/AmirAnsarpour"><img src="https://github-readme-stats.vercel.app/api?username=AmirAnsarpour&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="AmirAnsarpour" /></a>
-
 </div>
