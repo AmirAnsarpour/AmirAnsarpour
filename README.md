@@ -2,10 +2,8 @@
 - I'm AmirAnsarpour.
 
 ### Find me:
-- [blog](https://Ansarpour.ir) <br />
 - [instagram](https://instagram.com/AmirAnsarpour_) <br />
 - [telegram](https://t.me/AmirAnsarpour) <br />
-- [linkedIn](https://www.linkedin.com/in/AmirAnsarpour) <br />
 
 <!--
 #### languages
